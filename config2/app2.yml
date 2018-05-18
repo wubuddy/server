@@ -1,3 +1,2 @@
-greeting: 
-       name: wsy
-       say: hello
+some.property: app2
+some.otheproperty: app2-other
